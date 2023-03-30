@@ -1,0 +1,37 @@
+body {
+      justify-content: center;
+      width: 40%;
+      padding: 25px;
+      background-color: rgb(59, 110, 155);
+      text-align: center;
+      width: 25%;
+      margin: 0 auto;
+      
+
+}
+
+
+
+.contaides{
+
+      justify-content: center;
+      width: 40%;
+      padding: 25px;
+      background-color: rgb(199, 10, 139);
+      text-align: center;
+
+
+
+}
+
+
+.mirelli{
+
+      justify-content: center;
+      width: 40%;
+      padding: 25px;
+      background-color: rgb(165, 143, 158);
+      text-align: center;
+
+
+}
